@@ -72,6 +72,12 @@ Its role:
 - Creating an analytical dashboard with filters and comparisons
 - Transforming raw SQL outputs into business-friendly visuals
 
+## 📊 Dashboard Screenshots
+
+![Dashboard Overview](Screenshot%20263.png)
+
+![Genre Analysis](Screenshot%20264.png)
+
 The Power BI dashboard acts as the **final presentation layer** of the project.
 
 
