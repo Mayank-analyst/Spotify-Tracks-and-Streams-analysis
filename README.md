@@ -73,10 +73,13 @@ Its role:
 - Transforming raw SQL outputs into business-friendly visuals
 
 ## 📊 Dashboard Screenshots
+## 📊 Dashboard Preview
 
-![Dashboard Overview](Screenshot%20263.png)
+### Overall Spotify Insights
+<img src="Screenshot%20(273).png" width="900"/>
 
-![Genre Analysis](Screenshot%20264.png)
+### Records insights
+<img src="Screenshot%20(274).png" width="900"/>
 
 The Power BI dashboard acts as the **final presentation layer** of the project.
 
