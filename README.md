@@ -72,7 +72,6 @@ Its role:
 - Creating an analytical dashboard with filters and comparisons
 - Transforming raw SQL outputs into business-friendly visuals
 
-## 📊 Dashboard Screenshots
 ## 📊 Dashboard Preview
 
 ### Overall Spotify Insights
